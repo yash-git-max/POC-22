@@ -1,5 +1,5 @@
 {
-  "name": "poc22-nodejs-app",
+  "name": "poc-22",
   "version": "1.0.0",
   "main": "app.js",
   "dependencies": {
